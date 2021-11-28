@@ -16,7 +16,7 @@ def discord_notify():
     """
     Notifies on discord
     """
-    WEBHOOK = 'https://discord.com/api/webhooks/914582672452517919/jJPK9G5YrBq5dVfXhues4Wcan4YgF3DXr5xw2RraTY1hcYodSeS21bThBEVM93IgCpaU'
+    WEBHOOK = 'https://discord.com/api/webhooks/914589909942165625/6G3hLAA1r1hSG6dhtby_uR8Caw7WtX2EHlT_txtYzeIOgRU8qzM_xl5xXVLaoTWcFlus'
     DEFAULT_IMAGE = 'https://drive.google.com/uc?export=view&id=1LXT2YJDutdnFcEdYhkGh5gmAE-bmoLiG'
 
     fields = [
@@ -62,7 +62,7 @@ def main():
             continue
         spans = soup.find_all('span', {'class' : 'data-layer'})
         for span in spans:
-            if not 'spiderman' in span['data-titulo'].lower():
+            if 'spiderman' in span['data-titulo'].lower():
                 discord_notify()
     
 if __name__ == "__main__":
