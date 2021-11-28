@@ -1,0 +1,2150 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html dir="ltr" lang="es-MX" class="no-js ie ie8 lte8 lte9" itemscope itemtype="https://schema.org/Blog"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="es-MX" class="no-js ie ie9 lte9" itemscope itemtype="https://schema.org/Blog"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js" dir="ltr" itemscope="" itemtype="https://schema.org/Blog" lang="es-MX">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="IA interactive" name="author"/>
+  <meta name="copyright"/>
+  <meta content="initial-scale=1.0, width=device-width, maximum-scale=1.0" name="viewport"/>
+  <!-- localhost:31852-->
+  <!-- beta perfil-->
+  <meta content="689027481079-kie1ta7fuuberbce4v2sl5aijo4c13ai.apps.googleusercontent.com" id="IdGoogle" name="google-signin-clientid"/>
+  <!--stage perfil-->
+  <meta content="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/plus.profile.emails.read" name="google-signin-scope"/>
+  <meta content="single_host_origin" name="google-signin-cookiepolicy"/>
+  <meta content="y8515iktbqyty2liiyd112k5hyd607" name="facebook-domain-verification"/>
+  <link href="https://static.cinepolis.com/favicon.ico" rel="icon" type="image/x-icon"/>
+  <link href="https://static.cinepolis.com/img/logo-icons/icon-57x57.png" rel="apple-touch-icon-precomposed"/>
+  <link href="https://static.cinepolis.com/img/logo-icons/icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+  <link href="https://static.cinepolis.com/img/logo-icons/icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+  <link href="https://static.cinepolis.com/img/logo-icons/icon-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+  <!--[if lt IE 9]><script type="text/javascript"  src="/scripts/html5.js"></script><![endif]-->
+  <!-- CSS-->
+  <link href="/-449872030" rel="stylesheet" type="text/css"/>
+  <link href="/css/master.css" rel="stylesheet" type="text/css"/>
+  <link href="https://static.cinepolis.com/css/responsive.css" rel="stylesheet"/>
+  <link href="/css/cartelera.css" rel="stylesheet"/>
+  <link href="/323676370" rel="stylesheet" type="text/css">
+   <meta content="Aparta tu lugar para tus películas favoritas que tienen preventa disponible en Cinépolis." name="description"/>
+   <meta content="preventa de, cinema, boletos de cine, función de media noche, preestreno, boletos cinépolis, películas nuevas en el cine, pelis de estreno, pelúculas recomendadas, próximos estrenos de cine" name="keywords"/>
+   <meta content="https://static.cinepolis.com/img/cinepolis_share.png" property="og:image"/>
+   <meta content="Aparta tu lugar para tus películas favoritas que tienen preventa disponible en Cinépolis." property="og:description"/>
+   <link href="https://static.cinepolis.com/css/responsive.css" rel="stylesheet"/>
+   <link href="/marcas/vip/css/cartelera-vip.css" rel="stylesheet"/>
+   <link href="https://static.cinepolis.com/app/css/angular.css" rel="stylesheet">
+    <link href="/-2006319605" rel="stylesheet" type="text/css">
+     <link href="/-1339141376" rel="stylesheet" type="text/css">
+      <link href="https://static.cinepolis.com/css/actions-utils.css" rel="stylesheet"/>
+      <!--[if lt IE 9]><script type="text/javascript"  src="/scripts/css3-mediaqueries.js"></script><![endif]-->
+      <!-- Scripts-->
+      <script src="/448640400" type="text/javascript">
+      </script>
+      <script src="https://static.cinepolis.com/scripts/postscribe.js" type="text/javascript">
+      </script>
+      <script src="https://www.googletagservices.com/tag/js/gpt.js">
+      </script>
+      <script>
+       var googletag = googletag || {};
+                googletag.cmd = googletag.cmd || [];
+      </script>
+      <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-210804-68">
+      </script>
+      <script>
+       window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-210804-68', { 'optimize_id': 'GTM-KX39WKQ', 'send_page_view': false });
+      </script>
+      <script>
+       //dataLayer = [];
+
+if(typeof $.cookie("_2jdx646") != "undefined"){
+dataLayer.push({"&uid": "#"+$.cookie("_2jdx646")});
+}
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M66T72');
+      </script>
+      <script>
+       googletag.cmd.push(function() {
+  slot1 = googletag.defineSlot('/21703872347/MX-Preventa/MX-Preventa-LB', [728, 90], 'div-gpt-ad-1525893025637-0').addService(googletag.pubads());
+  slot2 = googletag.defineSlot('/21703872347/MX-Preventa/MX-Preventa-SS', [120, 600], 'div-gpt-ad-1525893025637-1').addService(googletag.pubads());
+  googletag.pubads().disableInitialLoad();
+  googletag.pubads().enableSingleRequest();
+  googletag.enableServices();
+  });
+      </script>
+      <script type="text/javascript">
+       var isMobile = {
+  any: function() {
+  return navigator.userAgent.match(/Android|BlackBerry|iPhone|iPad|iPod|Opera Mini|IEMobile/i);
+  }
+ };
+ if( !isMobile.any() ){
+ googletag.pubads().refresh([slot1, slot2]);
+ }
+      </script>
+      <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+      </script>
+      <script>
+       (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6799912473824105",
+    enable_page_level_ads: true
+  });
+      </script>
+      <!-- Google Tag Manager -->
+      <script>
+       (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push(
+                { 'gtm.start': new Date().getTime(), event: 'gtm.js' }
+            ); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KDPVQPJ');
+      </script>
+      <!-- End Google Tag Manager -->
+      <script src="https://static.cinepolis.com/scripts/actions-utils-head.js">
+      </script>
+      <title>
+       Preventas Cinépolis
+      </title>
+     </link>
+    </link>
+   </link>
+  </link>
+ </head>
+ <body class="pais-mx">
+  <!-- Google Tag Manager -->
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-M66T72" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager -->
+  <form action="./preventas" id="form1" method="post">
+   <div class="aspNetHidden">
+    <input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="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"/>
+   </div>
+   <script src="/manejadores/CarteleraPreventas.ashx?CP=CinepolisMX" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    //<![CDATA[
+var ClaveCiudad= 'cdmx-norte'; var ClaveComplejo= ''; var  tkn = ''; ;var EsVIP= false; //]]>
+   </script>
+   <div class="wrapper" id="wrapper">
+    <header>
+     <div class="contentBusqueda g960 cf">
+      <div id="btnMenu">
+       <a href="#masCinepolis" title="Más Cinépolis®">
+        <i class="icon-reorder">
+        </i>
+       </a>
+      </div>
+      <h1 class="col3">
+       <a href="/" id="link_logomaster" title="Cinépolis®">
+        <img alt="Cinépolis®" id="img_logomaster" src="https://static.cinepolis.com/img/lg-cinepolis-new.png"/>
+        <span>
+         Cinépolis®
+        </span>
+       </a>
+      </h1>
+      <div class="cont-busqueda-esc">
+       <div class="col8 filtroBusqueda" id="busqueda">
+        <div class="col5">
+         <label>
+          Selecciona una ciudad
+         </label>
+         <div class="selectBlanco">
+          <select id="cmbCiudades" name="ctl00$cmbCiudades">
+           <option value="Selecciona una ciudad">
+            Selecciona una ciudad
+           </option>
+           <option clave="acambaro" value="0">
+            Acámbaro
+           </option>
+           <option clave="acapulco" value="1">
+            Acapulco
+           </option>
+           <option clave="acayucan" value="2">
+            Acayucan
+           </option>
+           <option clave="aguascalientes" value="3">
+            Aguascalientes
+           </option>
+           <option clave="apizaco" value="4">
+            Apizaco
+           </option>
+           <option clave="autlan-de-navarro" value="5">
+            Autlán de Navarro
+           </option>
+           <option clave="caborca" value="6">
+            Caborca
+           </option>
+           <option clave="cadereyta" value="7">
+            Cadereyta
+           </option>
+           <option clave="camargo" value="8">
+            Camargo
+           </option>
+           <option clave="campeche" value="9">
+            Campeche
+           </option>
+           <option clave="cancun" value="10">
+            Cancún
+           </option>
+           <option clave="cd-acuna" value="11">
+            Cd. Acuña
+           </option>
+           <option clave="cd-cuauhtemoc" value="12">
+            Cd. Cuauhtémoc
+           </option>
+           <option clave="cd-del-carmen" value="13">
+            Cd. del Carmen
+           </option>
+           <option clave="cd-guzman" value="14">
+            Cd. Guzmán
+           </option>
+           <option clave="cd-hidalgo" value="15">
+            Cd. Hidalgo
+           </option>
+           <option clave="cd-juarez" value="16">
+            Cd. Juárez
+           </option>
+           <option clave="cd-nezahualcoyotl" value="17">
+            Cd. Nezahualcóyotl
+           </option>
+           <option clave="cd-obregon" value="18">
+            Cd. Obregón
+           </option>
+           <option clave="cd-victoria" value="19">
+            Cd. Victoria
+           </option>
+           <option clave="cdmx-centro" value="20">
+            CDMX Centro
+           </option>
+           <option clave="cdmx-norte" selected="selected" value="21">
+            CDMX Norte
+           </option>
+           <option clave="cdmx-oriente" value="22">
+            CDMX Oriente
+           </option>
+           <option clave="cdmx-poniente" value="23">
+            CDMX Poniente
+           </option>
+           <option clave="cdmx-sur" value="24">
+            CDMX Sur
+           </option>
+           <option clave="celaya" value="25">
+            Celaya
+           </option>
+           <option clave="chalco-ixtapaluca" value="26">
+            Chalco - Ixtapaluca
+           </option>
+           <option clave="chetumal" value="27">
+            Chetumal
+           </option>
+           <option clave="chihuahua" value="28">
+            Chihuahua
+           </option>
+           <option clave="chilpancingo" value="29">
+            Chilpancingo
+           </option>
+           <option clave="chimalhuacan" value="30">
+            Chimalhuacán
+           </option>
+           <option clave="coacalco" value="31">
+            Coacalco
+           </option>
+           <option clave="coatzacoalcos" value="32">
+            Coatzacoalcos
+           </option>
+           <option clave="colima" value="33">
+            Colima
+           </option>
+           <option clave="comalcalco" value="34">
+            Comalcalco
+           </option>
+           <option clave="comitan" value="35">
+            Comitán
+           </option>
+           <option clave="cordoba" value="36">
+            Córdoba
+           </option>
+           <option clave="cozumel" value="37">
+            Cozumel
+           </option>
+           <option clave="cuautla" value="38">
+            Cuautla
+           </option>
+           <option clave="cuernavaca" value="39">
+            Cuernavaca
+           </option>
+           <option clave="culiacan" value="40">
+            Culiacán
+           </option>
+           <option clave="cunduacan" value="41">
+            Cunduacán
+           </option>
+           <option clave="delicias" value="42">
+            Delicias
+           </option>
+           <option clave="dolores-hidalgo" value="43">
+            Dolores Hidalgo
+           </option>
+           <option clave="durango" value="44">
+            Durango
+           </option>
+           <option clave="ecatepec" value="45">
+            Ecatepec
+           </option>
+           <option clave="emiliano-zapata" value="46">
+            Emiliano Zapata
+           </option>
+           <option clave="ensenada" value="47">
+            Ensenada
+           </option>
+           <option clave="garcia" value="48">
+            García
+           </option>
+           <option clave="gomez-palacio" value="49">
+            Gómez Palacio
+           </option>
+           <option clave="guadalajara" value="50">
+            Guadalajara
+           </option>
+           <option clave="guasave" value="51">
+            Guasave
+           </option>
+           <option clave="hermosillo" value="52">
+            Hermosillo
+           </option>
+           <option clave="hidalgo-del-parral" value="53">
+            Hidalgo del Parral
+           </option>
+           <option clave="huatulco-" value="54">
+            Huatulco
+           </option>
+           <option clave="huauchinango" value="55">
+            Huauchinango
+           </option>
+           <option clave="iguala" value="56">
+            Iguala
+           </option>
+           <option clave="irapuato" value="57">
+            Irapuato
+           </option>
+           <option clave="ixtlahuaca-de-rayon" value="58">
+            Ixtlahuaca de Rayón
+           </option>
+           <option clave="jimenez" value="59">
+            Jiménez
+           </option>
+           <option clave="jiutepec" value="60">
+            Jiutepec
+           </option>
+           <option clave="jojutla" value="61">
+            Jojutla
+           </option>
+           <option clave="la-paz" value="62">
+            La Paz
+           </option>
+           <option clave="la-piedad" value="63">
+            La Piedad
+           </option>
+           <option clave="lazaro-cardenas" value="64">
+            Lázaro Cárdenas
+           </option>
+           <option clave="leon" value="65">
+            León
+           </option>
+           <option clave="linares" value="66">
+            Linares
+           </option>
+           <option clave="los-cabos" value="67">
+            Los Cabos
+           </option>
+           <option clave="los-mochis" value="68">
+            Los Mochis
+           </option>
+           <option clave="los-reyes-la-paz-" value="69">
+            Los Reyes La Paz
+           </option>
+           <option clave="macuspana" value="70">
+            Macuspana
+           </option>
+           <option clave="magdalena-de-kino" value="71">
+            Magdalena de Kino
+           </option>
+           <option clave="manzanillo" value="72">
+            Manzanillo
+           </option>
+           <option clave="martinez-de-la-torre" value="73">
+            Martínez de la Torre
+           </option>
+           <option clave="matamoros-coahuila" value="74">
+            Matamoros, Coahuila
+           </option>
+           <option clave="matamoros-tamaulipas" value="75">
+            Matamoros, Tamaulipas
+           </option>
+           <option clave="mazatlan" value="76">
+            Mazatlán
+           </option>
+           <option clave="merida" value="77">
+            Mérida
+           </option>
+           <option clave="mexicali" value="78">
+            Mexicali
+           </option>
+           <option clave="minatitlan" value="79">
+            Minatitlán
+           </option>
+           <option clave="monclova" value="80">
+            Monclova
+           </option>
+           <option clave="montemorelos" value="81">
+            Montemorelos
+           </option>
+           <option clave="monterrey-cumbres" value="82">
+            Monterrey (Cumbres)
+           </option>
+           <option clave="monterrey-centro" value="83">
+            Monterrey Centro
+           </option>
+           <option clave="monterrey-norte" value="84">
+            Monterrey Norte
+           </option>
+           <option clave="monterrey-oriente" value="85">
+            Monterrey Oriente
+           </option>
+           <option clave="monterrey-sendero" value="86">
+            Monterrey Sendero
+           </option>
+           <option clave="monterrey-sur" value="87">
+            Monterrey Sur
+           </option>
+           <option clave="morelia" value="88">
+            Morelia
+           </option>
+           <option clave="muzquiz" value="89">
+            Muzquiz
+           </option>
+           <option clave="nogales" value="90">
+            Nogales
+           </option>
+           <option clave="nuevo-laredo" value="91">
+            Nuevo  Laredo
+           </option>
+           <option clave="nuevo-vallarta" value="92">
+            Nuevo Vallarta
+           </option>
+           <option clave="oaxaca" value="93">
+            Oaxaca
+           </option>
+           <option clave="ometepec" value="94">
+            Ometepec
+           </option>
+           <option clave="orizaba" value="95">
+            Orizaba
+           </option>
+           <option clave="pachuca" value="96">
+            Pachuca
+           </option>
+           <option clave="paraiso" value="97">
+            Paraíso
+           </option>
+           <option clave="parras-de-la-fuente-" value="98">
+            Parras de la Fuente
+           </option>
+           <option clave="patzcuaro" value="99">
+            Pátzcuaro
+           </option>
+           <option clave="perinorte-cuautitlan" value="100">
+            Perinorte - Cuautitlán
+           </option>
+           <option clave="playa-del-carmen" value="101">
+            Playa del Carmen
+           </option>
+           <option clave="puebla" value="102">
+            Puebla
+           </option>
+           <option clave="puerto-penasco-" value="103">
+            Puerto Peñasco
+           </option>
+           <option clave="puerto-vallarta" value="104">
+            Puerto Vallarta
+           </option>
+           <option clave="queretaro" value="105">
+            Querétaro
+           </option>
+           <option clave="ramos-arizpe" value="106">
+            Ramos Arizpe
+           </option>
+           <option clave="reynosa" value="107">
+            Reynosa
+           </option>
+           <option clave="rosarito" value="108">
+            Rosarito
+           </option>
+           <option clave="sahuayo" value="109">
+            Sahuayo
+           </option>
+           <option clave="salamanca" value="110">
+            Salamanca
+           </option>
+           <option clave="saltillo" value="111">
+            Saltillo
+           </option>
+           <option clave="san-cristobal-de-las-casas" value="112">
+            San Cristóbal de las Casas
+           </option>
+           <option clave="san-francisco-del-rincon" value="113">
+            San Francisco del Rincón
+           </option>
+           <option clave="san-juan-de-los-lagos" value="114">
+            San Juan de los Lagos
+           </option>
+           <option clave="san-juan-del-rio" value="115">
+            San Juan del Río
+           </option>
+           <option clave="san-l-rio-colorado" value="116">
+            San L Río Colorado
+           </option>
+           <option clave="san-luis-potosi" value="117">
+            San Luis Potosí
+           </option>
+           <option clave="san-pedro" value="118">
+            San Pedro
+           </option>
+           <option clave="santiago-tianguistenco-de-galeana" value="119">
+            Santiago Tianguistenco de Galeana
+           </option>
+           <option clave="sayula-jalisco" value="120">
+            Sayula Jalisco
+           </option>
+           <option clave="silao" value="121">
+            Silao
+           </option>
+           <option clave="tampico" value="122">
+            Tampico
+           </option>
+           <option clave="tapachula" value="123">
+            Tapachula
+           </option>
+           <option clave="taxco" value="124">
+            Taxco
+           </option>
+           <option clave="tecamac" value="125">
+            Tecámac
+           </option>
+           <option clave="tecate" value="126">
+            Tecate
+           </option>
+           <option clave="tecoman" value="127">
+            Tecomán
+           </option>
+           <option clave="tehuacan" value="128">
+            Tehuacán
+           </option>
+           <option clave="temixco" value="129">
+            Temixco
+           </option>
+           <option clave="tepatitlan" value="130">
+            Tepatitlán
+           </option>
+           <option clave="tepeji-del-rio" value="131">
+            Tepeji del Río
+           </option>
+           <option clave="tepic" value="132">
+            Tepic
+           </option>
+           <option clave="teziutlan-puebla" value="133">
+            Teziutlán Puebla
+           </option>
+           <option clave="tijuana" value="134">
+            Tijuana
+           </option>
+           <option clave="tizayuca" value="135">
+            Tizayuca
+           </option>
+           <option clave="tlajomulco" value="136">
+            Tlajomulco
+           </option>
+           <option clave="tlaxcala" value="137">
+            Tlaxcala
+           </option>
+           <option clave="toluca" value="138">
+            Toluca
+           </option>
+           <option clave="tonala" value="139">
+            Tonalá
+           </option>
+           <option clave="torreon" value="140">
+            Torreón
+           </option>
+           <option clave="tuxpan" value="141">
+            Tuxpan
+           </option>
+           <option clave="tuxtepec-" value="142">
+            Tuxtepec
+           </option>
+           <option clave="tuxtla-gutierrez" value="143">
+            Tuxtla Gutiérrez
+           </option>
+           <option clave="uriangato" value="144">
+            Uriangato
+           </option>
+           <option clave="uruapan" value="145">
+            Uruapan
+           </option>
+           <option clave="veracruz" value="146">
+            Veracruz
+           </option>
+           <option clave="villaflores" value="147">
+            Villaflores
+           </option>
+           <option clave="villahermosa" value="148">
+            Villahermosa
+           </option>
+           <option clave="xalapa" value="149">
+            Xalapa
+           </option>
+           <option clave="zacatecas" value="150">
+            Zacatecas
+           </option>
+           <option clave="zamora" value="151">
+            Zamora
+           </option>
+          </select>
+         </div>
+        </div>
+        <div class="col5">
+         <label>
+          Selecciona un cine
+         </label>
+         <div class="selectBlanco">
+          <select id="cmbComplejos" name="ctl00$cmbComplejos">
+           <option value="">
+            Selecciona un cine
+           </option>
+           <option value="cinepolis-azcapotzalco">
+            Cinépolis Azcapotzalco
+           </option>
+           <option value="cinepolis-city-center-zona-esmeralda">
+            Cinépolis City Center Zona Esmeralda
+           </option>
+           <option value="cinepolis-encuentro-fortuna">
+            Cinépolis Encuentro Fortuna
+           </option>
+           <option value="cinepolis-encuentro-tlalnepantla">
+            Cinépolis Encuentro Tlalnepantla
+           </option>
+           <option value="cinepolis-galerias-atizapan">
+            Cinépolis Galerías Atizapán
+           </option>
+           <option value="cinepolis-gustavo-baz">
+            Cinépolis Gustavo Baz
+           </option>
+           <option value="cinepolis-izcalli">
+            Cinépolis Izcalli
+           </option>
+           <option value="cinepolis-la-cuspide">
+            Cinépolis La Cúspide
+           </option>
+           <option value="cinepolis-multiplaza-arboledas">
+            Cinépolis Multiplaza Arboledas
+           </option>
+           <option value="cinepolis-pabellon-rio-de-los-remedios">
+            Cinépolis Pabellón Río de los Remedios
+           </option>
+           <option value="cinepolis-pedregal-atizapan">
+            Cinépolis Pedregal Atizapán
+           </option>
+           <option value="cinepolis-plaza-canada">
+            Cinépolis Plaza Cañada
+           </option>
+           <option value="cinepolis-plaza-crystal-atizapan">
+            Cinépolis Plaza Crystal Atizapán
+           </option>
+           <option value="cinepolis-plaza-cuitlahuac">
+            Cinépolis Plaza Cuitláhuac
+           </option>
+           <option value="cinepolis-plaza-parque-jardin">
+            Cinépolis Plaza Parque Jardín
+           </option>
+           <option value="cinepolis-plaza-tepeyac">
+            Cinépolis Plaza Tepeyac
+           </option>
+           <option value="cinepolis-punto-atizapan">
+            Cinépolis Punto Atizapán
+           </option>
+           <option value="cinepolis-satelite">
+            Cinépolis Satélite
+           </option>
+           <option value="cinepolis-sentura-tlalnepantla">
+            Cinépolis Sentura Tlalnepantla
+           </option>
+           <option value="cinepolis-torres-lindavista">
+            Cinépolis Torres Lindavista
+           </option>
+           <option value="cinepolis-town-center-el-rosario">
+            Cinépolis Town Center El Rosario
+           </option>
+           <option value="cinepolis-town-center-nicolas-romero">
+            Cinépolis Town Center Nicolás Romero
+           </option>
+           <option value="cinepolis-via-vallejo">
+            Cinépolis Vía Vallejo
+           </option>
+           <option value="cinepolis-vip-encuentro-fortuna">
+            Cinépolis VIP Encuentro Fortuna
+           </option>
+           <option value="cinepolis-vip-galerias-atizapan">
+            Cinépolis VIP Galerías Atizapán
+           </option>
+           <option value="cinepolis-vip-la-cuspide">
+            Cinépolis VIP La Cúspide
+           </option>
+           <option value="cinepolis-vip-plaza-satelite">
+            Cinépolis VIP Plaza Satélite
+           </option>
+           <option value="cinepolis-vip-sentura-tlalnepantla">
+            Cinépolis VIP Sentura Tlalnepantla
+           </option>
+           <option value="cinepolis-vip-via-vallejo">
+            Cinépolis VIP Via Vallejo
+           </option>
+           <option value="cinepolis-vista-norte">
+            Cinépolis Vista Norte
+           </option>
+           <option value="cinepolis-xtreme-las-armas">
+            Cinépolis Xtreme Las Armas
+           </option>
+          </select>
+         </div>
+         <a class="linkTuCine" href="/cambio-de-ciudades" style="display:block">
+          <span>
+           ¿No encuentras tu cine?
+          </span>
+         </a>
+        </div>
+        <div class="col2">
+         <input class="btn btnEnviar btnVerCartelera" type="submit" value="VER CARTELERA"/>
+        </div>
+       </div>
+      </div>
+      <div class="md-modal md-effect-12" id="videoTrailers">
+       <div class="md-content">
+        <div id="videoContent">
+        </div>
+        <button class="btnClose">
+         <i class="icon-remove-circle">
+         </i>
+        </button>
+       </div>
+      </div>
+      <script async="async" src="https://static.cinepolis.com/scripts/video/video.js">
+      </script>
+      <div class="col1">
+       <div id="ctl15_pnlCinepolisIDMexico">
+        <div id="ctl15_pnlAnonymousTemplate">
+         <a class="btnId abrirContent" href="#login">
+          <figure>
+           <img alt="ID Cinépolis" height="42" src="//static.cinepolis.com/img/icon-ID.png" width="43"/>
+           <figcaption>
+            Iniciar Sesión
+           </figcaption>
+          </figure>
+         </a>
+         <fieldset class="dropdown" id="login">
+          <h3>
+           Ingresa tus datos
+          </h3>
+          <p class="textInput">
+           <label for="txbCinepolisIdMaster">
+            Correo electrónico
+           </label>
+           <input autocomplete="off" id="txbCinepolisIdMaster" name="ctl00$ctl15$txbCinepolisIdMaster" tabindex="4" title="email" type="text"/>
+          </p>
+          <p class="textInput">
+           <label class="accessAid" for="txbContrasenaMaster">
+            Contraseña
+           </label>
+           <input autocomplete="off" id="txbContrasenaMaster" name="ctl00$ctl15$txbContrasenaMaster" tabindex="5" title="password" type="password" value=""/>
+          </p>
+          <input class="btn btnSend" id="btnEntrarMaster" name="ctl00$ctl15$btnEntrarMaster" onclick='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl15$btnEntrarMaster", "", true, "loginMarter", "", false, true))' tabindex="6" type="button" value="Entrar a Cinépolis® ID"/>
+          <p class="linksLogin">
+           <a class="linkPassword" href="/id/inicio-recuperar-contrasena" title="Recupera tu contraseña">
+            ¿Olvidaste tu contraseña?
+           </a>
+           <a class="linkRegister" href="/id/registro" title="Registrate para Ingresar">
+            ¿No estás registrado?
+           </a>
+          </p>
+          <div class="conectar-redes">
+           <p>
+            Conectar con:
+           </p>
+           <ul class="row">
+            <li class="col12">
+             <input class="btn btnTwitterConect" id="ctl15_btnTwitterConnect" name="ctl00$ctl15$btnTwitterConnect" type="submit" value="Twitter"/>
+            </li>
+           </ul>
+          </div>
+          <p class="text-center linksLogin">
+           <a class="btn btnTrailer" data-modal="modal-12" data-video="https://static.cinepolis.com/marcas/id/mx/videos/cinepolisid.mp4" href="#" title="Descubre los beneficios de Cinépolis® ID">
+            ¿Qué es Cinépolis® ID?
+           </a>
+          </p>
+         </fieldset>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="navegacion" id="navegacion_master">
+      <div class="AbrirNav g960 cf">
+       <div class="float-left navComp navComp--campaing cf">
+        <a class="abrirContent navComp__link" href="#menuNavega" id="btnAbrirNav">
+         <i class="icon-arrow-down">
+         </i>
+         Menú
+        </a>
+        <a class="navComp__link navComp__link--pe" href="https://goo.gl/sO3Lhe">
+         Próximos estrenos
+        </a>
+        <a class="navComp__link" href="/preventas">
+         Preventas
+        </a>
+        <a class="navComp__link navComp__link--qpv" href="https://bit.ly/2LJCI1M" target="_blank">
+         Qué película ver
+        </a>
+        <a class="navComp__link navComp__link--vr" href="/realidad-virtual" target="_blank">
+         <img alt="Cinépolis Vr" src="https://static.cinepolis.com/img/lg-cinepolis-vr-new.png"/>
+        </a>
+       </div>
+       <ul class="redesSociales float-right cf">
+        <li class="redesSociales-item" style="display: none">
+         <a data="Inclusite®" href="/inclusite" title="Accesibilidad Cinépolis">
+          <i class="icon-inclusite">
+          </i>
+         </a>
+        </li>
+        <li class="redesSociales-item">
+         <a class="redesSociales-link icon-facebook" data="Facebook" data-social="facebook" href="https://www.facebook.com/cinepolisonline" target="_blank" title="Facebook Cinépolis">
+         </a>
+        </li>
+        <li class="redesSociales-item">
+         <a class="redesSociales-link icon-twitter" data="Twitter" data-social="twitter" href="https://twitter.com/cinepolis" target="_blank" title="Twitter Cinépolis">
+         </a>
+        </li>
+        <li class="redesSociales-item">
+         <a class="redesSociales-link icon-instagram" data="Instagram" data-social="instagram" href="https://instagram.com/cinepolismx" target="_blank" title="Instagram Cinépolis®">
+         </a>
+        </li>
+        <li class="redesSociales-item">
+         <a class="redesSociales-link icon-youtube" data="Youtube" data-social="youtube" href="https://www.youtube.com/user/CinepolisOnline" target="_blank" title="YouTube Cinépolis">
+         </a>
+        </li>
+        <li class="redesSociales-item" style="">
+         <a class="redesSociales-link icon-linkedin" data-social="linkedin" href="https://www.linkedin.com/company/296080?trk=tyah&amp;trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A296080%2Cidx%3A2-1-5%2CtarId%3A1479233918211%2Ctas%3Acin%C3%A9" target="_blank">
+         </a>
+        </li>
+        <li class="redesSociales-item">
+         <a class="redesSociales-link icon-mobile-phone" data="Apps Cinépolis®" href="/aplicaciones-moviles/" title="App Cinépolis">
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="row navContent dropdown" id="menuNavega">
+       <div class="g960 cf">
+        <nav class="links-a">
+         <ul id="ListaSecciones">
+          <li class="col2">
+           <a href="/protocolo-de-seguridad" target="_self">
+            <span>
+             Cinépolis
+            </span>
+            <figure>
+             <img alt="Cinépolis" class="lazy" data-src="https://static.cinepolis.com/img/1/202065165644234.jpg"/>
+            </figure>
+           </a>
+          </li>
+          <li class="col2">
+           <a href="/proximos-estrenos" target="_self">
+            <span>
+             Próximos estrenos
+            </span>
+            <figure>
+             <img alt="Próximos estrenos" class="lazy" data-src="https://static.cinepolis.com/img/1/2021112414234558.png"/>
+            </figure>
+           </a>
+          </li>
+          <li class="col2">
+           <a href="/mas-que-cine" target="_self">
+            <span>
+             +Que Cine
+            </span>
+            <figure>
+             <img alt="+Que Cine" class="lazy" data-src="https://static.cinepolis.com/img/1/2021112414248152.jpg"/>
+            </figure>
+           </a>
+          </li>
+          <li class="col2">
+           <a href="/promociones" target="_self">
+            <span>
+             Promociones
+            </span>
+            <figure>
+             <img alt="Promociones" class="lazy" data-src="https://static.cinepolis.com/img/1/20211110131832498.jpg"/>
+            </figure>
+           </a>
+          </li>
+          <li class="col2">
+           <a href="/muestras-y-festivales" target="_self">
+            <span>
+             Muestras y Festivales
+            </span>
+            <figure>
+             <img alt="Muestras y Festivales" class="lazy" data-src="https://static.cinepolis.com/img/1/20211117165855887.jpg"/>
+            </figure>
+           </a>
+          </li>
+          <li class="col2">
+           <a href="https://bit.ly/3CP8oZG" target="_blank">
+            <span>
+             Klic
+            </span>
+            <figure>
+             <img alt="Klic" class="lazy" data-src="https://static.cinepolis.com/img/1/2021112683856994.jpg"/>
+            </figure>
+           </a>
+          </li>
+          <li class="hidden cn-pr">
+           <a href="/preventas" target="_self">
+            <span>
+             Preventas
+            </span>
+           </a>
+          </li>
+          <li class="col3 hidden nuestrasMarcas">
+           <a href="#">
+            <span>
+             Nuestras Marcas
+            </span>
+           </a>
+          </li>
+          <li class="hidden cn-vr">
+           <a href="/realidad-virtual" target="_blank">
+            <span>
+             Cinépolis
+             <sup>
+              ®
+             </sup>
+             VR
+            </span>
+           </a>
+          </li>
+          <li class="hidden cn-vr">
+           <a href="https://bit.ly/2LJCI1M" target="_blank">
+            <span>
+             Qué película ver
+            </span>
+           </a>
+          </li>
+         </ul>
+        </nav>
+        <nav id="navMarcas">
+         <ul class="marcas row">
+          <li>
+           <a class="btnRegresar hidden" href="#" style="display: none">
+            <i class="icon-caret-left">
+            </i>
+            Regresar
+           </a>
+          </li>
+          <li>
+           <figure class="anim-cdx">
+            <a href="/4dx" title="Sala 4DX">
+             <span class="sequence animated-cdx">
+             </span>
+            </a>
+           </figure>
+          </li>
+          <li>
+           <figure class="anim-imax">
+            <a href="/imax" title="IMAX">
+             <span class="sequence animated-imax">
+             </span>
+            </a>
+           </figure>
+          </li>
+          <li>
+           <figure class="anim-xe">
+            <a href="/macro-xe" title="Cinépolis Macro XE®">
+             <span class="sequence animated-xe">
+             </span>
+            </a>
+           </figure>
+          </li>
+          <li>
+           <figure class="anim-jr">
+            <a href="/sala-junior" target="_blank" title="Salas JR">
+             <span class="sequence animated-jr">
+             </span>
+            </a>
+           </figure>
+          </li>
+          <li>
+           <figure class="anim-vip">
+            <a href="/vip" target="_blank" title="Cinépolis VIP®">
+             <span class="sequence animated-vip">
+             </span>
+            </a>
+           </figure>
+          </li>
+          <li>
+           <figure class="anim-vr">
+            <a href="/realidad-virtual" target="blank" title="Cinépolis® VR">
+             <span class="sequence animated-vr">
+             </span>
+            </a>
+           </figure>
+          </li>
+          <li>
+           <figure class="anim-club">
+            <a href="/club-cinepolis-id" title="Club Cinépolis">
+             <span class="sequence animated-club">
+             </span>
+            </a>
+           </figure>
+          </li>
+          <li>
+           <figure class="anim-garantia">
+            <a href="/garantia-cinepolis" title="Garantía Cinépolis®">
+             <span class="sequence animated-garantia">
+             </span>
+            </a>
+           </figure>
+          </li>
+          <li>
+           <figure class="anim-masque">
+            <a href="/mas-que-cine" target="blank" title="+ Que Cine">
+             <span class="sequence animated-masque">
+             </span>
+            </a>
+           </figure>
+          </li>
+          <li>
+           <figure class="anim-sda">
+            <a href="/sala-de-arte" title="Sala De Arte">
+             <span class="sequence animated-sda">
+             </span>
+            </a>
+           </figure>
+          </li>
+          <li>
+           <figure class="anim-cash">
+            <a href="javascript:void(0);" title="CineCash®">
+             <span class="sequence animated-cash">
+             </span>
+            </a>
+           </figure>
+          </li>
+          <li>
+           <figure class="anim-funda">
+            <a href="https://www.fundacioncinepolis.org/" target="_blank" title="Fundación Cinépolis">
+             <span class="sequence animated-funda">
+             </span>
+            </a>
+           </figure>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </div>
+    </header>
+    <div id="nav-spacer">
+    </div>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+     <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KDPVQPJ" style="display: none; visibility: hidden" width="0">
+     </iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- BANNER -->
+    <div id="publiboardTop">
+     <div id="leaderboard-dfp">
+     </div>
+     <div class="front-interno">
+      <!-- /21703872347/MX-Preventa/MX-Preventa-LB -->
+      <div id="div-gpt-ad-1525893025637-0" style="height:90px; width:728px;">
+       <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525893025637-0'); });
+       </script>
+      </div>
+     </div>
+    </div>
+    <div class="contentWrapper" ng-app="cinepolisApp" ng-controller="showtimesController">
+     <section class="infoComplejo" data-simbolo="$" id="ContentPlaceHolder1_divInfoComplejo">
+      <article>
+       <div class="g960 cf">
+        <header class="cf">
+         <h2>
+          Morelia, Plaza las Américas
+         </h2>
+         <a class="btnCerrarComplejo" href="#">
+          <span>
+           Cerrar
+          </span>
+          <i class="icon-remove-circle">
+          </i>
+         </a>
+        </header>
+        <div class="row">
+         <div class="map col4" id="map-canvas">
+         </div>
+         <div class="col3">
+          <p>
+           <strong>
+            Información de contacto
+           </strong>
+          </p>
+          <p class="comp_direccion">
+          </p>
+          <p class="comp_telefonos">
+          </p>
+         </div>
+         <div class="col5">
+          <p>
+           <strong>
+            Políticas de precios
+           </strong>
+          </p>
+          <div class="politicasPrecios" id="politicasPrecios">
+           <div class="content">
+            <table>
+            </table>
+           </div>
+          </div>
+          <br/>
+         </div>
+        </div>
+        <div class="row restricciones">
+         <p>
+          <strong>
+           Restricciones
+          </strong>
+         </p>
+         <span>
+         </span>
+        </div>
+        <div class="row">
+         <div class="col4">
+          <p>
+           <strong>
+            Negocios
+           </strong>
+          </p>
+          <p class="lgInformacion" id="lgNegocios">
+          </p>
+         </div>
+         <div class="col3">
+          <p>
+           <strong>
+            Experiencia
+           </strong>
+          </p>
+          <p class="lgInformacion" id="lgTiposSalas">
+          </p>
+         </div>
+         <div class="col2">
+          <p>
+           <strong>
+            Número de salas
+           </strong>
+          </p>
+          <p class="lgInformacion">
+           <span>
+            18
+           </span>
+          </p>
+         </div>
+         <div class="col3 noborder" style="display: none">
+          <p>
+           <strong>
+            Califica este complejo
+           </strong>
+          </p>
+          <div class="ranking">
+           <input class="rankingSubmit" name="star1" type="radio"/>
+           <input class="rankingSubmit" name="star1" type="radio"/>
+           <input class="rankingSubmit" name="star1" type="radio"/>
+           <input class="rankingSubmit" name="star1" type="radio"/>
+           <input class="rankingSubmit" name="star1" type="radio"/>
+          </div>
+         </div>
+        </div>
+        <div class="row politica-precio">
+        </div>
+       </div>
+      </article>
+     </section>
+     <div class="headlineRegistro" id="ContentPlaceHolder1_headlineRegistro">
+      <div class="g960 cf">
+       <div id="cintilloid">
+       </div>
+       <div class="front-interno">
+        <a href="https://cinepolis.com/protocolo-de-seguridad">
+         <img alt="Protocolo de Nueva Normalidad" src="https://static.cinepolis.com/img/comercializacion/1/202122614459403.jpg" style="height:38px"/>
+        </a>
+       </div>
+       <a class="cerrarId closebutton" href="#">
+        <span>
+         Cerrar
+        </span>
+        <i class="icon-remove-circle">
+        </i>
+       </a>
+      </div>
+     </div>
+     <!-- CARTELERA PREVENTA -->
+     <section class="preventaCartelera" data-movieobj="{{cinema}}" id="ContentPlaceHolder1_seccion_preventas">
+      <article class="g960 cf">
+       <h2>
+        PREVENTAS
+       </h2>
+       <div class="listpreventas cf lstpreventas">
+        <!--Se arma un ID por pelicula para validar las vistas-->
+        <ul class="row tituloPelicula" id="{{cinema.Name}}-preventa">
+         <li ng-repeat="presale in presales">
+          <figure>
+           <a href="#" ng-click="clickPresale(presale.Clave, $index)" relpreventa="1">
+            <img alt="{{presale.Titulo}}" ng-cloak="" ng-src="{{presale.Cartel}}"/>
+            <figcaption>
+             {{presale.Titulo}}
+            </figcaption>
+           </a>
+          </figure>
+          <span class="preventa-data-layer" data-actor="{{presale.Actores}}" data-boletos="{{presale.Boletos}}" data-clasificaicon="{{presale.Clasificacion}}" data-color="{{presale.Color}}" data-director="{{presale.Directores}}" data-distribuidora="{{presale.Distribuidora}}" data-genero="{{presale.Genero}}" data-keymovie="{{presale.Clave}}" data-list="preventas" data-titulo="{{presale.Titulo}}" data-titulooriginal="{{presale.TituloOriginal}}" data-variante="{{presale.Variante}}">
+          </span>
+         </li>
+        </ul>
+       </div>
+      </article>
+     </section>
+     <!-- CARTELERA -->
+     <section class="busquedaCartelera g960 cf" data-city="cdmx-norte" data-location="" data-movie="" data-pais="CinepolisMX" data-presale="True" data-vip="False" id="carteleraCiudad">
+      <a class="btnAbrirFiltro" href="#">
+       <span>
+        Filtrar
+       </span>
+       <i class="icon-caret-down">
+       </i>
+      </a>
+      <div class="filtrosBusqueda col3 first">
+       <div class="cont">
+        <div class="cont-grupos">
+         <div class="fixedFiltros">
+          <div class="groupFiltro" id="ContentPlaceHolder1_filtro_ciudad">
+           <h3>
+            Ciudad
+            <i class="icon-caret-down float-right">
+            </i>
+           </h3>
+           <div ng-show="!loading">
+            <p>
+             <strong>
+              ¿En qué ciudad la quieres ver?
+             </strong>
+            </p>
+            <div class="selectBlanco">
+             <select class="ciudadLista" data-placeholder="Elige tu ciudad" ng-change="getNowPlayingByMovie(currentCity)" ng-cloak="" ng-model="currentCity">
+              <option ng-cloak="" ng-repeat="city in presaleActive.Ciudades" on-last-repeat-presale="" value="{{city.CodigoCiudad}}">
+               {{city.Nombre}}
+              </option>
+             </select>
+            </div>
+           </div>
+          </div>
+          <div class="groupFiltro">
+           <h3>
+            Complejos
+            <i class="icon-caret-down float-right">
+            </i>
+           </h3>
+           <div id="opcionesComplejo">
+            <div class="selectBlanco divZonas" ng-show="!loading">
+             <select class="zonasLista" data-placeholder="Elige tus zonas" multiple="" ng-change="getNowPlayingByCityZone(selectedCity)" ng-cloak="" ng-model="selectedCity">
+              <option id="{{key}}" ng-cloak="" ng-repeat="(key, value) in city.CitiesZone" value="{{key}}">
+               {{value}}
+              </option>
+             </select>
+            </div>
+            <div class="selectBlanco" ng-show="!loading">
+             <select class="complejosLista" data-placeholder="Elige tus cines favoritos" multiple="" ng-cloak="">
+              <option data-ciudad="{{cinema.CityKey}}" id="{cinema.{Key}}" idcomplejo="{{cinema.Id}}" ng-cloak="" ng-repeat="cinema in city.Cinemas" selected="selected" value="{{cinema.Key}}">
+               {{cinema.Name}}
+              </option>
+             </select>
+            </div>
+           </div>
+          </div>
+          <div class="groupFiltro fecha" id="ContentPlaceHolder1_filtro_fechas">
+           <h4 ng-cloak="" ng-show="city.IsPresale &amp;&amp; isPresaleValidated" style="text-align: center;">
+            <a href="/compra-anticipada" target="_blank">
+             <img alt="Compra anticipada" ng-src="//static.cinepolis.com/img/genericos/compra-50.png"/>
+            </a>
+           </h4>
+           <h3>
+            Día
+            <i class="icon-caret-down float-right">
+            </i>
+           </h3>
+           <div>
+            <div class="selectBlanco" ng-show="!loading">
+             <select id="cmbFechas" ng-cloak="" ng-init="filterDate='28 noviembre'" ng-model="filterDate">
+              <option ng-cloak="" ng-repeat="(key, value) in city.Dates" value="{{value}}">
+               {{ formatDate(value,city.Cinemas[0].CityKey,$index,city.IsPresale) }}
+              </option>
+             </select>
+            </div>
+           </div>
+          </div>
+          <div class="groupFiltro experiencia">
+           <h3>
+            Tipo de proyección
+            <i class="icon-caret-down float-right">
+            </i>
+           </h3>
+           <div>
+            <h4 class="titulo_experiencia">
+             Experiencia
+            </h4>
+            <div class="opcionLista" id="opcionesExperiencia" ng-show="!loading">
+             <p ng-repeat="(key, value) in city.Experiences">
+              <input checked="checked" class="chk_filtroFormato" id="{{key}}" name="{{key}}" type="checkbox" value="{{key}}"/>
+              <label for="{{key}}" ng-cloak="">
+               {{parseFormat(value)}}
+              </label>
+             </p>
+            </div>
+            <h4 class="titulo_formato">
+             Formato
+            </h4>
+            <div class="opcionLista" id="opcionesFormato" ng-show="!loading">
+             <p ng-repeat="(key, value) in city.Formats">
+              <input checked="checked" class="chk_filtroFormato" id="{{key}}" name="{{key}}" type="checkbox" value="{{key}}"/>
+              <label for="{{key}}" ng-cloak="">
+               {{parseFormat(value)}}
+              </label>
+             </p>
+            </div>
+            <h4 class="titulo_idioma">
+             Idioma
+            </h4>
+            <div class="opcionLista" id="opcionesIdioma" ng-show="!loading">
+             <p ng-repeat="(key, value) in city.Languages">
+              <input checked="checked" class="chk_filtroFormato" id="{{key}}" name="{{key}}" type="checkbox" value="{{key}}"/>
+              <label for="{{key}}" ng-cloak="">
+               {{parseFormat(value)}}
+              </label>
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <section class="col7 preloadCartelera">
+      </section>
+      <section class="col7 listaCarteleraHorario">
+       <div class="bgpreload_Gris" id="preloadCartelera" ng-show="loading">
+        <p>
+         Cargando horarios
+        </p>
+       </div>
+       <div class="errorBusqueda cf" ng-cloak="" ng-show="!loading &amp;&amp; !complete">
+        <span>
+         :(
+        </span>
+        <p>
+         Cartelera no disponible por el momento. Por favor intenta más tarde.
+        </p>
+       </div>
+       <div class="errorBusqueda emptyFilters cf" ng-cloak="">
+        <span>
+         :(
+        </span>
+        <p>
+         No hay películas con el criterio de búsqueda seleccionado
+        </p>
+       </div>
+       <div class="errorBusqueda emptyLocations cf" ng-cloak="">
+        <span>
+         :(
+        </span>
+        <p>
+         Por favor selecciona un cine
+        </p>
+       </div>
+       <div class="{{cinema.Key}} divComplejo" data-oculto="0" ng-repeat="cinema in city.Cinemas" ng-show="!loading" on-last-repeat="">
+        <div class="divFecha" ng-repeat="date in cinema.Dates | filter : {ShowtimeDate : filterDate}">
+         <a class="btnInfoComplejo" href="#" idcomplejo="{{cinema.Id}}" idcomplejohijo="{{cinema.Children}}" ng-click="dataLayer.push({'event':'{{cinema.Name}}'});" nombreciudad="{{cinema.CityName}}" nombrecomplejo="{{cinema.Name}}">
+          <h2 ng-bind-html="getLocation(cinema.Name, cinema.Status) | to_trusted" ng-cloak="">
+          </h2>
+         </a>
+         <article class="row tituloPelicula" data-oculto="0" ng-repeat="movie in date.Movies">
+          <figure class="col4">
+           <a href="" ng-click="sendDataLayer(movie, 'Cartelera', cinema.Key)">
+            <div class="corner 4dx">
+            </div>
+            <img alt="{{movie.Title}}" ng-cloak="" ng-src="{{movie.Poster | ReplaceUrl}}"/>
+           </a>
+          </figure>
+          <div class="descripcion col8" id="{{cinema.Key}}-{{movie.Id}}-{{movie.Key}}">
+           <header class="cf">
+            <h3>
+             <!--Se arma un id por pelicula y se valida el click para el dayaLayer -->
+             <a class="datalayer-movie" href="#" id="{{movie.Id}}-{{cinema.Key}}-{{movie.Key}}" ng-click="sendDataLayer(movie, 'Cartelera', cinema.Key)" ng-cloak="">
+              {{movie.Title}}
+             </a>
+            </h3>
+            <span class="data-layer" data-actor="{{movie.Actors}}" data-boletos="boletos" data-clasificacion="{{movie.Rating}}" data-director="{{movie.Director}}" data-distribuidora="{{movie.Distributor}}" data-fotmatopelicula="Sin datos" data-genero="{{movie.Gender}}" data-list="{{cinema.Key}}" data-moviekey="{{movie.Key}}" data-titulo="{{movie.Title}}" data-titulooriginal="{{movie.OriginalTitle}}">
+            </span>
+            <p class="float-right">
+             <span class="clasificacion" data-description="{{movie.RatingDescription}}" ng-cloak="">
+              {{movie.Rating}}
+             </span>
+             <span class="duracion" ng-cloak="">
+              {{movie.RunTime}}
+             </span>
+             <a class="btn btnTrailer btnShowTrailer" data-modal="modal-12" data-video="{{movie.Trailer | ReplaceUrl}}" href="#" ng-click="DataLayerTrailer(movie.Title)" ng-cloak="" ng-show="showTrailer(movie.Trailer)">
+              <i class="icon-caret-right">
+              </i>
+              Ver trailer
+             </a>
+            </p>
+           </header>
+           <span class="fechaPreventa" ng-cloak="" ng-show="isPresaleActive">
+            <i class="icon-calendar">
+            </i>
+            {{ date.ShowtimeDate }}
+           </span>
+           <div class="horarioExp {{format.Name}}" data-conteo="0" data-ocultoporhorario="0" ng-cloak="" ng-init="AddSegob(format.Name,format.SegobPermission,movie.Title)" ng-repeat="format in movie.Formats" ng-show="!loading">
+            <div class="row">
+             <div class="col3 cf" ng-bind-html="getExperiences(format.Name) | to_trusted">
+             </div>
+             <div class="col9 cf">
+              <time class="btn btnhorario" data-oculto="0" ng-repeat="showtime in format.Showtimes" value="{{showtime.Time}}">
+               <a href="{{getUrl(cinema.VistaId, showtime.ShowtimeId, movie)}}" ng-cloak="">
+                {{getHourFormat(showtime.ShowtimeAMPM, showtime.Time)}}
+               </a>
+              </time>
+             </div>
+            </div>
+           </div>
+          </div>
+         </article>
+         <div class="btnTop" ng-cloak="">
+          <a href="javascript:window.scrollTo(0,0);">
+           <i class="icon-caret-up">
+           </i>
+           Regresar al inicio
+          </a>
+         </div>
+        </div>
+       </div>
+      </section>
+      <aside class="bannerPromo col2">
+       <div class="bannerVertical">
+        <div id="skyscraper-dfp">
+        </div>
+        <div class="front-interno">
+         <!-- /21703872347/MX-Preventa/MX-Preventa-SS -->
+         <div id="div-gpt-ad-1525893025637-1" style="height:600px; width:120px;">
+          <script>
+           googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525893025637-1'); });
+          </script>
+         </div>
+        </div>
+       </div>
+      </aside>
+     </section>
+     <div class="ci-notification" ng-cloak="" ng-show="!isPresaleFound">
+      <div class="g960 cf">
+       <p class="ci-notification-txt">
+        Lo sentimos, la preventa que buscas
+        <strong class="ci-notification-strong">
+         no está disponible
+        </strong>
+        .
+       </p>
+       <a class="ci-notification-close icon-remove-circle" href="#">
+       </a>
+      </div>
+     </div>
+     <section class="g960 cf" ng-cloak="">
+      <p class="txtLegales" id="permisosGob">
+       {{segob.join(' ')}}
+      </p>
+     </section>
+     <section class="proximamente">
+      <article class="g960 cf">
+       <a href="/proximos-estrenos" id="ContentPlaceHolder1_proxestrenos_link_encartelera">
+        <h2>
+         PRÓXIMAMENTE
+        </h2>
+       </a>
+       <ul class="row tituloPelicula">
+        <li class="col2" id="rey-richard-una-familia-ganadora--Rey Richard: Una Familia Ganadora">
+         <figure>
+          <a href="/pelicula/rey-richard-una-familia-ganadora/">
+           <img alt="Rey Richard: Una Familia Ganadora" src="https://static.cinepolis.com/img/peliculas/36940/1/1/36940.jpg"/>
+           <figcaption>
+            Rey Richard: Una Familia Ganadora
+           </figcaption>
+          </a>
+         </figure>
+         <span class="data-layer" data-actor="Will Smith, Aunjanue Ellis, Saniyya Sidney, Demi Singleton" data-clasificacion="S/C" data-director="Reinaldo Marcus Green" data-distribuidora="Warner" data-fotmatopelicula="Sin datos" data-genero="Drama" data-list="proximamente-inferior" data-titulo="Rey Richard: Una Familia Ganadora" data-titulooriginal="King Richard (Estados Unidos, 2021)">
+         </span>
+        </li>
+        <li class="col2" id="corre-escondete-pelea--¡Corre, Escóndete, Pelea!">
+         <figure>
+          <a href="/pelicula/corre-escondete-pelea/">
+           <img alt="¡Corre, Escóndete, Pelea!" src="https://static.cinepolis.com/img/peliculas/36988/1/1/36988.jpg"/>
+           <figcaption>
+            ¡Corre, Escóndete, Pelea!
+           </figcaption>
+          </a>
+         </figure>
+         <span class="data-layer" data-actor="Isabel May, Eli Brown" data-clasificacion="B15" data-director="Kyle Rankin" data-distribuidora="Corazón Films" data-fotmatopelicula="Sin datos" data-genero="Acción, Suspenso" data-list="proximamente-inferior" data-titulo="¡Corre, Escóndete, Pelea!" data-titulooriginal="Run Hide Fight (Estados Unidos, 2020)">
+         </span>
+        </li>
+        <li class="col2" id="titane--Titane">
+         <figure>
+          <a href="/pelicula/titane/">
+           <img alt="Titane" src="https://static.cinepolis.com/img/peliculas/37817/1/1/37817.jpg"/>
+           <figcaption>
+            Titane
+           </figcaption>
+          </a>
+         </figure>
+         <span class="data-layer" data-actor="Garance Marillier, Agathe Rousselle, Vincent Lindon" data-clasificacion="C" data-director="Julia Ducournau" data-distribuidora="Canibal" data-fotmatopelicula="Sin datos" data-genero="Suspenso" data-list="proximamente-inferior" data-titulo="Titane" data-titulooriginal="Titane (Francia, 2021)">
+         </span>
+        </li>
+        <li class="col2" id="el-alpinista--El Alpinista">
+         <figure>
+          <a href="/pelicula/el-alpinista/">
+           <img alt="El Alpinista" src="https://static.cinepolis.com/img/peliculas/37790/1/1/37790.jpg"/>
+           <figcaption>
+            El Alpinista
+           </figcaption>
+          </a>
+         </figure>
+         <span class="data-layer" data-actor="Peter Mortimer, Marc-André  Leclerc, Brette  Harrington" data-clasificacion="S/C" data-director="Peter Mortimer, Nick Rosen" data-distribuidora="+Que Cine" data-fotmatopelicula="Sin datos" data-genero="Documental" data-list="proximamente-inferior" data-titulo="El Alpinista" data-titulooriginal="The Alpinist (EUA, 2021)">
+         </span>
+        </li>
+        <li class="col2" id="el-idolo--El Ídolo">
+         <figure>
+          <a href="/pelicula/el-idolo/">
+           <img alt="El Ídolo" src="https://static.cinepolis.com/img/peliculas/38087/1/1/38087.jpg"/>
+           <figcaption>
+            El Ídolo
+           </figcaption>
+          </a>
+         </figure>
+         <span class="data-layer" data-actor="Claudia Ramírez, Camila Selser, Francisco de la Reguera, Victor Weinstock" data-clasificacion="B" data-director="Erwin Neumaier" data-distribuidora="Neverlanding Data" data-fotmatopelicula="Sin datos" data-genero="Comedia" data-list="proximamente-inferior" data-titulo="El Ídolo" data-titulooriginal="El Ídolo (México, 2019)">
+         </span>
+        </li>
+        <li class="col2" id="playhouse-castillo-maldito--Playhouse: Castillo Maldito">
+         <figure>
+          <a href="/pelicula/playhouse-castillo-maldito/">
+           <img alt="Playhouse: Castillo Maldito" src="https://static.cinepolis.com/img/peliculas/38093/1/1/38093.jpg"/>
+           <figcaption>
+            Playhouse: Castillo Maldito
+           </figcaption>
+          </a>
+         </figure>
+         <span class="data-layer" data-actor="Sin datos" data-clasificacion="B" data-director="Sin datos" data-distribuidora="Star Castle" data-fotmatopelicula="Sin datos" data-genero="Terror" data-list="proximamente-inferior" data-titulo="Playhouse: Castillo Maldito" data-titulooriginal="Playhouse (Reino Unido, 2020)">
+         </span>
+        </li>
+       </ul>
+      </article>
+     </section>
+     <div class="btnTourTutorial" id="ContentPlaceHolder1_btnTourTutorial" style="display: none">
+     </div>
+    </div>
+    <div class="md-modal md-effect-12" id="videoTrailers">
+     <div class="md-content">
+      <div id="videoContent">
+      </div>
+      <button class="btnClose">
+       <i class="icon-remove-circle">
+       </i>
+      </button>
+     </div>
+    </div>
+    <script async="async" src="https://static.cinepolis.com/scripts/video/video.js">
+    </script>
+    <!-- Scripts -->
+    <script src="/scripts/jquery-imagefill.js">
+    </script>
+    <script src="/scripts/jquery-ui.min.js">
+    </script>
+    <script src="/scripts/jquery-ui-slider-pips.js">
+    </script>
+    <script src="/scripts/jquery.flexslider-min.js">
+    </script>
+    <script src="/scripts/jquery.rating.pack.js">
+    </script>
+    <script src="/scripts/jquery.carouFredSel-min.js">
+    </script>
+    <script src="/scripts/chosen.jquery.min.js">
+    </script>
+    <script src="/scripts/waypoints.js">
+    </script>
+    <script src="/app/js/advance-purchase.js">
+    </script>
+    <script type="text/javascript">
+     var diferenciaHoraria =0; var PaisCompra ='CinepolisMX';
+    </script>
+    <script src="/scripts/action-cartelera.js">
+    </script>
+    <script src="/scripts/Datos/datos-complejo.js">
+    </script>
+    <script src="/scripts/jquery.async.js">
+    </script>
+    <!-- Tour -->
+    <link href="/css/tour-sitio.css" rel="stylesheet"/>
+    <script type="text/javascript">
+     if (PaisCompra == "CinepolisPA" || PaisCompra == "CinepolisCO" || PaisCompra == "CinepolisPE")
+            $("body").addClass("region-andina");
+        var urlComplejo = window.location.pathname.split('/');
+
+        if (urlComplejo[3] == "") {
+            dataLayer.push({ 'event': 'filtromaster', 'ciudad': urlComplejo[2] });
+        } else {
+            dataLayer.push({ 'event': 'filtromaster', 'ciudad': urlComplejo[2], 'complejo': urlComplejo[3] });
+        }
+    </script>
+    <script src="/scripts/analytics/validar-anaytics360.js">
+    </script>
+    <script src="/scripts/analytics/data-layer.js">
+    </script>
+    <script src="/scripts/analytics/scrollGoogle360.js">
+    </script>
+    <script src="/scripts/analytics/lanzar-data-layer.js">
+    </script>
+    <script src="/scripts/angular.min.js">
+    </script>
+    <script src="/app/js/now-playing.js">
+    </script>
+    <script src="/app/app.js">
+    </script>
+    <script src="/app/services/showtimesService.js">
+    </script>
+    <script src="/app/controllers/showtimesController.js">
+    </script>
+    <script src="/app/directives/globalDirective.js">
+    </script>
+    <script src="/app/filters/filters.js">
+    </script>
+    <script src="/app/js/presales.js">
+    </script>
+    <style>
+     .cerrarId {
+            display: block !important;
+        }
+    </style>
+    <script src="/scripts/utils.js">
+    </script>
+    <script>
+     $(document).ready(function () {
+            if (isMobile() && $("body").hasClass("pais-mx")) {
+                appAdds();
+            }
+        });
+    </script>
+    <footer>
+     <div>
+      <ul class="g960 cf">
+       <li class="col6 catalogoPeliculas">
+        <h3>
+         CATÁLOGO DE PELÍCULAS
+        </h3>
+        <div class="sandbox">
+         <select class="movies" id="selectPelicula" placeholder="Busca una película">
+         </select>
+        </div>
+       </li>
+       <li class="col3">
+       </li>
+       <li class="col3" id="opcionPais">
+        <h3>
+         CAMBIAR DE PAÍS
+        </h3>
+        <div class="selectPais">
+         <ul class="submenu" style="display: none;">
+          <li>
+           <a href="https://www.cinepolisusa.com/">
+            Estados Unidos
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cinepolis.com/">
+            México
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cinepolisindia.com/">
+            India
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cinepolis.co.cr">
+            Costa Rica
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cinepolis.com.sv">
+            El Salvador
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cinepolis.com.gt">
+            Guatemala
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cinepolis.com.hn">
+            Honduras
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cinepolis.com.co">
+            Colombia
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cinepolis.com.pa">
+            Panamá
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cinepolis.com.pe">
+            Perú
+           </a>
+          </li>
+          <li>
+           <a href="https://cinehoyts.cl/">
+            Chile
+           </a>
+          </li>
+          <li>
+           <a href="https://yelmocines.es/">
+            España
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cinepolis.com.br">
+            Brasil
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cinepolis.com.ar">
+            Argentina
+           </a>
+          </li>
+         </ul>
+         <a class="btnPais cf" href="javascript:void(0);" id="lnkSitios">
+          <a class="btnPais cf" href="javascript:void(0);">
+           <i class="icon-caret-up">
+           </i>
+           <span>
+            México
+           </span>
+           <i class="float-right">
+            <img alt="México" src="https://static.cinepolis.com/img/1/2018103163152490.png"/>
+           </i>
+          </a>
+         </a>
+        </div>
+       </li>
+      </ul>
+     </div>
+     <nav class="cont-marcas g960 cf hideMovil" id="navMarcasFooter">
+      <ul class="marcas row">
+       <li>
+        <figure class="anim-cdx">
+         <a href="/4dx" title="Sala 4DX">
+          <span class="sequence animated-cdx">
+          </span>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="anim-imax">
+         <a href="/imax" title="IMAX">
+          <span class="sequence animated-imax">
+          </span>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="anim-xe">
+         <a href="/macro-xe" title="Cinépolis Macro XE®">
+          <span class="sequence animated-xe">
+          </span>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="anim-jr">
+         <a href="/sala-junior" target="_blank" title="Salas JR">
+          <span class="sequence animated-jr">
+          </span>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="anim-vip">
+         <a href="/vip" target="_blank" title="Cinépolis VIP®">
+          <span class="sequence animated-vip">
+          </span>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="anim-vr">
+         <a href="/realidad-virtual" target="blank" title="Cinépolis® VR">
+          <span class="sequence animated-vr">
+          </span>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="anim-club">
+         <a href="/club-cinepolis-id" title="Club Cinépolis">
+          <span class="sequence animated-club">
+          </span>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="anim-garantia">
+         <a href="/garantia-cinepolis" title="Garantía Cinépolis®">
+          <span class="sequence animated-garantia">
+          </span>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="anim-masque">
+         <a href="/mas-que-cine" target="blank" title="+ Que Cine">
+          <span class="sequence animated-masque">
+          </span>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="anim-sda">
+         <a href="/sala-de-arte" title="Sala De Arte">
+          <span class="sequence animated-sda">
+          </span>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="anim-cash">
+         <a href="javascript:void(0);" title="CineCash®">
+          <span class="sequence animated-cash">
+          </span>
+         </a>
+        </figure>
+       </li>
+       <li>
+        <figure class="anim-funda">
+         <a href="https://www.fundacioncinepolis.org/" target="_blank" title="Fundación Cinépolis">
+          <span class="sequence animated-funda">
+          </span>
+         </a>
+        </figure>
+       </li>
+      </ul>
+     </nav>
+     <div class="g960 cf navFooter">
+      <div class="col3 hideMovil">
+       <ul id="ListaCarteleraFooter">
+        <li>
+         <h3>
+          Cartelera
+         </h3>
+        </li>
+        <li>
+         <a href="/preventas" target="_self">
+          Preventas
+         </a>
+        </li>
+        <li>
+         <a href="/garantia-cinepolis" target="_self">
+          Garantía Cinépolis®
+         </a>
+        </li>
+        <li>
+         <a href="/muestras-y-festivales" target="_self">
+          Muestras y festivales
+         </a>
+        </li>
+        <li>
+         <a href="/mas-que-cine" target="_self">
+          + Que Cine
+         </a>
+        </li>
+        <li>
+         <a href="/proximos-estrenos" target="_self">
+          Próximos estrenos
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col3 hideMovil">
+       <ul class="hideMovil" id="ListaQuienes">
+        <li>
+         <h3>
+          ¿Quiénes somos?
+         </h3>
+        </li>
+        <li>
+         <a href="/proveedores/" target="_self">
+          Proveedores
+         </a>
+        </li>
+        <li>
+         <a href="https://goo.gl/t7cmjv" target="_blank">
+          Trabaja en Cinépolis®
+         </a>
+        </li>
+        <li>
+         <a href="https://intranet.cinepolis.com/SitePages/Bienvenida.aspx" target="_blank">
+          Corporativo
+         </a>
+        </li>
+        <li>
+         <a href="/proximas-aperturas" target="_self">
+          Próximas Aperturas
+         </a>
+        </li>
+        <li>
+         <a href="/ventas-corporativas" target="_self">
+          Ventas Corporativas
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col3">
+       <ul id="ListaLegalesFooter">
+        <li>
+         <h3>
+          Legales
+         </h3>
+        </li>
+        <li>
+         <a href="https://static.cinepolis.com/documentos/terminos-y-condiciones-generales.pdf" target="_blank">
+          Términos y condiciones
+         </a>
+        </li>
+        <li>
+         <a href="https://static.cinepolis.com/documentos/aviso-de-privacidad-cinepolis.pdf" target="_blank">
+          Aviso de privacidad
+         </a>
+        </li>
+        <li>
+         <a href="https://static.cinepolis.com/resources/mx/documents/Terminos-y-condiciones-CINECASH.pdf" target="_blank">
+          Términos Cinecash
+         </a>
+        </li>
+        <li>
+         <a href="https://static.cinepolis.com/documentos/terminos-condiciones-cinepolis.pdf" target="_blank">
+          Términos y condiciones Cineticket
+         </a>
+        </li>
+        <li>
+         <a href="https://static.cinepolis.com/resources/mx/documents/codigo_de_conducta_cinepolis.pdf" target="_blank">
+          Código de conducta
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col3">
+       <ul class="contacto" id="ListaContacto">
+        <li>
+         <h3>
+          Contacto
+         </h3>
+        </li>
+        <li>
+         <a href="https://webportal.edicomgroup.com/customers/cinepolis/" target="_blank">
+          <i class="icon-factura float-left">
+          </i>
+          Facturación electrónica
+         </a>
+        </li>
+        <li>
+         <a href="/tus-comentarios" target="_blank">
+          <i class="icon-contacto float-left">
+          </i>
+          Déjanos tus comentarios
+         </a>
+        </li>
+        <li>
+         <a class="lnkPhone" href="tel:5521226060">
+          <i class="icon-phone float-left">
+          </i>
+          <span>
+           552 122 60 60
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <ul class="logosReconocimientos g960" id="ListaReconocimientos">
+      <li>
+       <a href="https://ecommerceaward.org/los-ganadores-del-ecommerce-award-mexico-2018/" target="_blank" title="eCommerce">
+        <img alt="eCommerce" class="receCommerce" src="https://static.cinepolis.com/img/1/2018320162638955.png"/>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.coca-cola.com.mx" target="_blank" title="Coca-Cola">
+        <img alt="Coca-Cola" class="recCoca-Cola" src="https://static.cinepolis.com/img/1/201412917445996.png"/>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.comscore.com/esl/" target="_blank" title="ComScore">
+        <img alt="ComScore" class="recComScore" src="https://static.cinepolis.com/img/1/20141291751119.png"/>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.amipci.org.mx/" target="_blank" title="AMIPCI">
+        <img alt="AMIPCI" class="recAMIPCI" src="https://static.cinepolis.com/img/1/201412917543139.png"/>
+       </a>
+      </li>
+      <li>
+       <img alt="Expansión Súper Empresas" class="recExpansionSuperEmpresas" src="https://static.cinepolis.com/img/1/20141291768785.png"/>
+      </li>
+      <li>
+       <img alt="ESR" class="recESR" src="https://static.cinepolis.com/img/1/20141291763359.png"/>
+      </li>
+     </ul>
+     <div class="row copyright">
+      <div class="g960 cf">
+       <p class="float-left">
+        <small>
+         Contenido del sitio 2021© Derechos reservados Exhibidora Mexicana Cinépolis
+         <sup>
+          ®
+         </sup>
+         , S.A. de C.V.
+        </small>
+       </p>
+       <p class="float-right">
+        Desarrollado por
+        <a href="https://www.ia.com.mx" target="_blank">
+         IA Interactive
+        </a>
+       </p>
+      </div>
+     </div>
+    </footer>
+   </div>
+   <div class="aspNetHidden">
+    <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="5A5710F3">
+     <input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="KdeiPgKgKsd9JehER7ZS+KzpHgLHpiPb7AN4qITZ5pNhh7L8pkvMz18uv+F6j41KZDoL4w3GqyrOeFvGUjiWn+tRe9RIX5QvOSywepp3vCW2uEdym1tXXF5IbQrI5Aet/0ophdJKsa6BbAQk1zuPZkYdnnWP49rjYSEmsTIxnDlWf4ADR5viQJvep6SgX40iA33meXHrPlgoMjj5p66rv6HFrcPf7YqlHZitTrLKWnc="/>
+    </input>
+   </div>
+  </form>
+  <script src="https://static.cinepolis.com/scripts/actions-utils.js">
+  </script>
+  <script src="https://static.cinepolis.com/scripts/compra-funciones.js">
+  </script>
+  <script async="" src="https://static.cinepolis.com/marcas/id/mxscripts/facebook.connect.pkg.js?API=579868282052507" type="text/javascript">
+  </script>
+  <script async="" src="https://static.cinepolis.com/marcas/id/mxscripts/google.plus.connect.pkg.js" type="text/javascript">
+  </script>
+  <script src="https://static.cinepolis.com/marcas/id/mxscripts/facebook.login.pkg.js?ChannelID=5&amp;url=" type="text/javascript">
+  </script>
+  <script src="https://static.cinepolis.com/marcas/id/mxscripts/google.plus.login.pkg.js?btnLogin=btnPlusConnect">
+  </script>
+  <script src="/-1545495167" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   jQuery(document).ready(function ($) { $("#txbContrasenaMaster").keypress(function (evt) { if (evt.keyCode == 13) { $("#btnEntrarMaster").trigger("click"); return false; } }); });
+  </script>
+  <script async="" src="https://static.cinepolis.com/marcas/id/mxscripts/google.plus.connect.pkg.js">
+  </script>
+  <script type="text/javascript">
+   setTimeout(function () { var a = document.createElement("script"); var b = document.getElementsByTagName("script")[0]; a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/6530.js?" + Math.floor(new Date().getTime() / 3600000); a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b) }, 1);
+  </script>
+  <script src="https://static.cinepolis.com/scripts/jquery.sparckley.js">
+  </script>
+  <script>
+   //$(".submenu li").on("click",
+        //    function() {
+        //        var enlacepais = $(this).find("a").attr("href");
+        //        location.href = enlacepais;
+        //    });
+
+        $(".redesSociales-link").on("click", function ()
+        {
+
+            if ($(this).attr("data-social") === "facebook")
+            {
+                dataLayer.push({ 'event': 'facebookshare' });
+            }
+
+            if ($(this).attr("data-social") === "twitter")
+            {
+                dataLayer.push({ 'event': 'twittershare' });
+            }
+
+            if ($(this).attr("data-social") === "instagram")
+            {
+                dataLayer.push({ 'event': 'instagramshare' });
+            }
+
+            if ($(this).attr("data-social") === "youtube")
+            {
+                dataLayer.push({ 'event': 'youtubeshare' });
+            }
+
+            if ($(this).attr("data-social") === "linkedin")
+            {
+                dataLayer.push({ 'event': 'linkedinshare' });
+            }
+        });
+  </script>
+  <script type="text/javascript">
+   (function (e, s, t) {
+                    t = t || {}, t.id = e, versaTagObj = {
+                        $: [],
+                        onready: function (e) {
+                            this.$.push(e)
+                        }
+                    };
+                    var n = s.getElementsByTagName("script")[0],
+                        r = s.createElement("script");
+                    r.options = t, r.async = !0, r.src = "https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js?id=" + e, r.options = t, n.parentNode.insertBefore(r, n)
+                    })("1073747052", document, {
+                        dataLayer: "SizmekDataLayer"
+                    });
+  </script>
+ </body>
+</html>
