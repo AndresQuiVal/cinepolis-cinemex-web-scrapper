@@ -16,7 +16,7 @@ def discord_notify():
     """
     Notifies on discord
     """
-    WEBHOOK = 'https://discord.com/api/webhooks/914589909942165625/6G3hLAA1r1hSG6dhtby_uR8Caw7WtX2EHlT_txtYzeIOgRU8qzM_xl5xXVLaoTWcFlus'
+    WEBHOOK = 'https://discord.com/api/webhooks/914594039985221742/M71ujxFi8uDjmB6nRh_3o2INHfEv4ChWrz1ORnbTJZpa2S7YAjuWzmUjFdWFq86o1OfJ'
     DEFAULT_IMAGE = 'https://drive.google.com/uc?export=view&id=1LXT2YJDutdnFcEdYhkGh5gmAE-bmoLiG'
 
     fields = [
