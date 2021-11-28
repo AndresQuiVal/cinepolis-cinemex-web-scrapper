@@ -57,6 +57,7 @@ def discord_notify():
 
 def main():
     while True:
+        print("Inspecting...")
         time.sleep(2)
         soup = get_soup()
         if not soup: 
