@@ -63,8 +63,8 @@ def main():
         if not soup: 
             continue
         spans = soup.find_all('span', {'class' : 'data-layer'})
-        title = span['data-titulo'].lower()
         for span in spans:
+            title = span['data-titulo'].lower()
             if 'spiderman' in title or 'spider-man' in title or 'spider man' in title:
                 discord_notify()
     
